@@ -16,7 +16,7 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
 ## *Preprint:*
 - **Interpretable and robust ai in eeg systems: A survey**
   <br>
-  Xinliang Zhou, Chenyu Liu, Liming Zhai*, **Ziyu Jia\***, Cuntai Guan, Yang Liu
+  Xinliang Zhou, Chenyu Liu, Liming Zhai*, **Yanan Wu\***, Cuntai Guan, Yang Liu
   <br>
   [[PDF]](https://arxiv.org/pdf/2304.10755.pdf){:target="_blank"}
   <div style="height:1em" />
