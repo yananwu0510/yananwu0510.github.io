@@ -82,7 +82,7 @@ I am a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University </b>](ht
 - IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)
 - IEEE Transactions on Circuits and Systems for Video Technology (**TNNLS**)
 
-### Teaching Assistant
+#### *Teaching Assistant:*
 - Pattern recognition, Harbin University of Science and Technology, Spring 2018
 - Machine learning, Harbin University of Science and Technology, , Spring 2017
 
