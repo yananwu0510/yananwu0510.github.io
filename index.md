@@ -43,9 +43,18 @@ I am a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University </b>](ht
   **Yanan Wu**, Zhixiang Chi, Yang Wang, Songhe Feng. <br>
   International Conference on Computer Vision, 2023 (**ICCV**, **CCF-A**) [[PDF]](https://arxiv.org/abs/2308.11063){:target="_blank"}  [[Code]](https://github.com/yananwu0510/MetaGCD){:target="_blank"}  
 
-- MetaZSCIL: A Meta-Learning Approach for Generalized Zero-Shot Class Incremental Learning. <br>
+- MetaZSCIL: A Meta-Learning Approach for Generalized Zero-Shot Class Incremental Learning <br>
   **Yanan Wu**, Tengfei Liang, Songhe Feng, Yi Jin, Gengyu Lyu, Yang Wang. <br>
   AAAI Conference on Artificial Intelligence, 2023 (**AAAI**, **CCF-A**) [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/26238/26010){:target="_blank"}
+
+- Semantic-Aware Graph Matching Mechanism for Multi-Label Image Recognition <br>
+  **Yanan Wu**, Songhe Feng, Yang Wang. <br>
+  IEEE Transactions on Circuits and Systems for Video Technology, 2023 (**TCSVT**, **SCI-An1**) [[PDF]](https://ieeexplore.ieee.org/iel7/76/4358651/10106016.pdf){:target="_blank"}
+
+- Transformer Driven Matching Selection Mechanism for Multi-Label Image Classification <br>
+  **Yanan Wu**, Songhe Feng. <br>
+  IEEE Transactions on Circuits and Systems for Video Technology, 2023 (**TCSVT**, **SCI-An1**) [[PDF]](https://ieeexplore.ieee.org/iel7/76/4358651/10158710.pdf){:target="_blank"}
+  
 ***
 
 
