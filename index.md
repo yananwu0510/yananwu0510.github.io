@@ -73,37 +73,20 @@ I am a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University </b>](ht
 
 # Professional Services
 
-### Editorial Board
-
-- Explore and Development of the Internet of Things
-
 ### PC Member | Reviewer
 
 #### *Conferences:*
-- International Conference on Learning Representations (**ICLR**)
-- Neural Information Processing Systems (**NeurIPS**)
-- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**)
+- International Conference on Computer Vision (**ICCV**)
 - International Joint Conference on Artificial Intelligence (**IJCAI**)
 - AAAI Conference on Artificial Intelligence (**AAAI**)
-- The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD**)
 
 #### *Journals:*
-- IEEE Transactions on Knowledge and Data Engineering (**TKDE**)
-- The ACM Transactions on Knowledge Discovery from Data (**TKDD**)
-- IEEE Transactions on Neural Systems & Rehabilitation Engineering (**TNSRE**)
-- Journal of Neural Engineering (**JNE**)
-- Future Generation Computer Systems (**FGCS**)
-- Neurocomputing
-- Biocybernetics and Biomedical Engineering (**BBE**)
-
-### Membership
-- DeeCamp 2020 Member (Under the guidance of Dr. [Kai-Fu Lee](https://www.linkedin.com/in/kaifulee/)) 
-- AI TIME PhD Branch Leader
-- IEEE Student Member 
-- ACM Student Member
+- IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)
+- IEEE Transactions on Circuits and Systems for Video Technology (**TNNLS**)
 
 ### Teaching Assistant
-- Machine learning, Beijing Jiaotong University, Spring 2018, Spring 2019, Spring 2020.
+- Pattern recognition, Harbin University of Science and Technology, Spring 2018
+- Machine learning, Harbin University of Science and Technology, , Spring 2017
 
 ***
 
@@ -119,36 +102,6 @@ I am a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University </b>](ht
 - **The 16th China Graduate Mathematical Modeling Competition, The third prize**, 2019. *Role: team mentor.*
 - **First-Class Scholarship of Beijing Jiaotong University**, 2016-2020
 - **Microsoft Imagine Cup Competition, The third prize**, 2015. *Role: team mentor.*
-
-***
-
-# Selected Talks
-
-- **Physiological Time Series Classification and its Application in Sleep Staging**  [[video (in Chinese)]](http://live.ckcest.cn/open/pc/play?oid=&id=10000318&returnUrl=http%3A%2F%2Flive.ckcest.cn%2Fstatic%2Fmobile%2Findex.html){:target="_blank"}
-  <br>
-  at: [07/2021]  *AI Drive & Paperweekly & Biendata, Online* 
-  
-  <div style="height:1em" />
-- **Academic New Youth Talk - Emotional EEG Signal Classification**  [[video (in Chinese)]](https://apposcmf8kb5033.pc.xiaoe-tech.com/detail/l_60b700b4e4b0017651a11fd3/4?fromH5=true){:target="_blank"}
-  <br>
-  at: [06/2021] *Online, More than **2,000 views*** 
-  
-  <div style="height:1em" />
-- **Physiological Time Series Classification Meets Artificial Intelligence**  [[video (in Chinese)]](https://www.slidestalk.com/Baiyulan/V570930?video){:target="_blank"}
-  <br>
-  at: [01/2021]  *AI Institute, Shanghai Jiao Tong University, Shanghai* (Host: Qingqing Wang)
-  
-  <div style="height:1em" />
-- **AI TIME PhD IJCAI-Physiological Signal Classification for Deep Learning**  [[video (in Chinese)]](https://www.bilibili.com/video/BV1q5411E7EU){:target="_blank"}
-  <br>
-  at: [01/2021]  *AI TIME & AMiner, Beijing*
-  
-  <div style="height:1em" />
-- **The 6th Swarma Club Academic Annual Conference - GraphSleepNet: Adaptive Spatial-Temporal Graph Convolutional Networks for Sleep Stage Classification**  [[slides (in Chinese)]](https://pattern.swarma.org/path?id=112 ){:target="_blank"}
-  <br>
-  at: [01/2021]  *Swarma Club, Beijing*
-  
-  <div style="height:1em" />
 
 ***
 
