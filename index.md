@@ -31,7 +31,7 @@ I am a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University </b>](ht
 
 # Publications
 
-* denotes equal contribution
+\* denotes equal contribution
 
 
 ***
