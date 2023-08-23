@@ -33,6 +33,8 @@ I am a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University </b>](ht
 
 \* denotes equal contribution
 
+**News:**
+- 2023.01 - 2024.01, visiting scholar <br>
 
 ***
 
