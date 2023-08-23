@@ -2,13 +2,9 @@
 layout: homepage
 ---
 
-# Biography
+# About Me
 
-I am an **<font color='#1677D2'>Assistant Professor</font>** at Institute of Automation of Chinese Academy of Sciences (**<font color='#1677D2'>CASIA</font>**), Beijing, China. Here I am lucky enough to work with Prof. [<b>Tianzi Jiang</b>](http://www.nlpr.ia.ac.cn/jiangtz/){:target="_blank"}. Before joining the CASIA, I was a staff at the Faculty of Science and Technology, University of Macau. I was a Joint Ph.D. student at Beijing Jiaotong University and National University of Singapore. In addition, I have maintained a long-term cooperative relationship with collaborators from the Massachusetts Institute of Technology, University of Macau, Nanyang Technological University, National University of Singapore, Harvard Medical School, Rutgers University, and ETH Zürich, etc. 
-
-I strive for developing **<font color='#1677D2'>novel time series data mining, machine learning and deep learning algorithms</font>**. In addition, I am also interested in a broad range of physiological time series applications in sleep stage classification, Brain Computer Interface, and affective computing. Besides research, I’m also an enthusiastic coder. I have participated in some large software development projects, and I am familiar with many tools for processing big data, such as Hadoop, Hbase, Hive, Spark, Flink and Storm.
-
-<font color='red'>If you want to collaborate with me or conduct research internships, please feel free to contact me!</font>
+I am currently a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University </b>](https://bjtu.edu.cn){:target="_blank"} (BJTU), advised by Prof. [<b>Songhe Feng </b>](http://faculty.bjtu.edu.cn/8407/){:target="_blank"}. At the current stage, I am funded by the China Scholarship Council (CSC) to work as a visiting scholar at Concordia University in Canada. I am interested in the general areas of computer vision and machine learning, with research focuses on multi-label image classification, zero-shot learning, novel class discovery and domain adaptation.
 
 ***
 
