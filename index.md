@@ -73,14 +73,12 @@ I am a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University </b>](ht
 
 # Professional Services
 
-### PC Member | Reviewer
-
-#### *Conferences:*
+#### *Reviewer for Conferences:*
 - International Conference on Computer Vision (**ICCV**)
 - International Joint Conference on Artificial Intelligence (**IJCAI**)
 - AAAI Conference on Artificial Intelligence (**AAAI**)
 
-#### *Journals:*
+#### *Reviewer for Journals:*
 - IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)
 - IEEE Transactions on Circuits and Systems for Video Technology (**TNNLS**)
 
