@@ -8,6 +8,13 @@ I am currently a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University
 
 ***
 
+# Research Interests
+
+- Interpretable and robust ai in eeg systems: A survey
+
+***
+
+
 # Selected Publications
 ## *Preprint:*
 - **Interpretable and robust ai in eeg systems: A survey**
