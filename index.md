@@ -18,11 +18,12 @@ I am a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University </b>](ht
 
 # Education
 
-- 2023.01 - 2024.01, visiting scholar
+- 2023.01 - 2024.01, visiting scholar <br>
   Concordia University, Computer Science, Supervised by Prof. [<b>Yang Wang </b>](https://users.encs.concordia.ca/~wayang/){:target="_blank"}.
-- 2019.09 - 2024.03(Expected), Ph.D. student
+- 2019.09 - 2024.03(Expected), Ph.D. student <br>
   Beijing Jiaotong University, Computer Science, Supervised by Prof. [<b>Songhe Feng </b>](http://faculty.bjtu.edu.cn/8407/){:target="_blank"}
-
+- 2016.09 - 2019.03, Master student <br>
+  Beijing Jiaotong University, Computer Science
 ***
 
 
