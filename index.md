@@ -24,7 +24,7 @@ I am a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University </b>](ht
   Beijing Jiaotong University, Computer Science, Supervised by Prof. [<b>Songhe Feng </b>](http://faculty.bjtu.edu.cn/8407/){:target="_blank"}
 - 2016.09 - 2019.03, Master student <br>
   Harbin University of Science and Technology, Computer Science
-- 2012.09 - 2016.07, Master student <br>
+- 2012.09 - 2016.07, B.E. <br>
   Henan University of Chinese Medicine, Computer Science
   
 ***
