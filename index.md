@@ -41,8 +41,11 @@ I am a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University </b>](ht
 **2023:**
 - MetaGCD: Learning to Continually Learn in Generalized Category Discovery <br>
   **Yanan Wu**, Zhixiang Chi, Yang Wang, Songhe Feng. <br>
-  International Conference on Computer Vision, 2023 (ICCV, CCF-A) [[PDF]](https://arxiv.org/abs/2308.11063){:target="_blank"}  [[Code]](https://github.com/yananwu0510/MetaGCD){:target="_blank"}  
+  International Conference on Computer Vision, 2023 (**ICCV**, **CCF-A**) [[PDF]](https://arxiv.org/abs/2308.11063){:target="_blank"}  [[Code]](https://github.com/yananwu0510/MetaGCD){:target="_blank"}  
 
+- MetaZSCIL: A Meta-Learning Approach for Generalized Zero-Shot Class Incremental Learning. <br>
+  **Yanan Wu**, Tengfei Liang, Songhe Feng, Yi Jin, Gengyu Lyu, Yang Wang. <br>
+  AAAI Conference on Artificial Intelligence, 2023 (**AAAI**, **CCF-A**) [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/26238/26010){:target="_blank"}
 ***
 
 
