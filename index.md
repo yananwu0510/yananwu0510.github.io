@@ -42,15 +42,12 @@ I am a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University </b>](ht
 - MetaGCD: Learning to Continually Learn in Generalized Category Discovery <br>
   **Yanan Wu**, Zhixiang Chi, Yang Wang, Songhe Feng. <br>
   International Conference on Computer Vision, 2023 (**ICCV**, **CCF-A**) [[PDF]](https://arxiv.org/abs/2308.11063){:target="_blank"}  [[Code]](https://github.com/yananwu0510/MetaGCD){:target="_blank"}  
-
 - MetaZSCIL: A Meta-Learning Approach for Generalized Zero-Shot Class Incremental Learning <br>
   **Yanan Wu**, Tengfei Liang, Songhe Feng, Yi Jin, Gengyu Lyu, Yang Wang. <br>
   AAAI Conference on Artificial Intelligence, 2023 (**AAAI**, **CCF-A**) [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/26238/26010){:target="_blank"}
-
 - Semantic-Aware Graph Matching Mechanism for Multi-Label Image Recognition <br>
   **Yanan Wu**, Songhe Feng, Yang Wang. <br>
   IEEE Transactions on Circuits and Systems for Video Technology, 2023 (**TCSVT**, **SCI-An1**) [[PDF]](https://ieeexplore.ieee.org/iel7/76/4358651/10106016.pdf){:target="_blank"}
-
 - Transformer Driven Matching Selection Mechanism for Multi-Label Image Classification <br>
   **Yanan Wu**, Songhe Feng. <br>
   IEEE Transactions on Circuits and Systems for Video Technology, 2023 (**TCSVT**, **SCI-An1**) [[PDF]](https://ieeexplore.ieee.org/iel7/76/4358651/10158710.pdf){:target="_blank"}
@@ -58,8 +55,7 @@ I am a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University </b>](ht
 **2022:**
 - Deep Graph Matching for Partial Label Learning <br>
   Gengyu Lyu, **Yanan Wu\***, Songhe Feng. <br>
-  International Joint Conference on Artificial Intelligence, 2022 (**IJCAI**, **CCF-A**) [[PDF]](https://www.ijcai.org/proceedings/2022/0459.pdf){:target="_blank"}
-  
+  International Joint Conference on Artificial Intelligence, 2022 (**IJCAI**, **CCF-A**) [[PDF]](https://www.ijcai.org/proceedings/2022/0459.pdf){:target="_blank"}  
 - Beyond Shared Subspace: A View-Specific Fusion for Multi-View Multi-Label Learning <br>
   Gengyu Lyu, Xiang Deng, **Yanan Wu**, Songhe Feng. <br>
   AAAI Conference on Artificial Intelligence, 2022 (**AAAI**, **CCF-A**) [[PDF]]https://ojs.aaai.org/index.php/AAAI/article/download/20731/20490){:target="_blank"}
@@ -67,8 +63,7 @@ I am a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University </b>](ht
 **2021:**
 - GM-MLIC: Graph Matching based Multi-Label Image Classifification <br>
   **Yanan Wu\***, He Liu, Songhe Feng, Gengyu Lyu, Zizhang Wu. <br>
-  International Joint Conference on Artificial Intelligence, 2021 (**IJCAI**, **CCF-A**) [[PDF]](https://www.ijcai.org/proceedings/2021/0163.pdf){:target="_blank"}
-  
+  International Joint Conference on Artificial Intelligence, 2021 (**IJCAI**, **CCF-A**) [[PDF]](https://www.ijcai.org/proceedings/2021/0163.pdf){:target="_blank"} 
 - L4Net: An Anchor-Free Generic Object Detector with Attention Mechanism for Autonomous Driving <br>
   **Yanan Wu\***, Songhe Feng, Xiankai Huang, Zizhang Wu. <br>
   IET Computer Vision, 2021 [[PDF]](https://www.ijcai.org/proceedings/2021/0163.pdf){:target="_blank"}
