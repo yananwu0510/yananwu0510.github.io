@@ -90,12 +90,12 @@ I am a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University </b>](ht
 
 # Honors and Awards
 
-- **China Scholarship Council (CSC) scholarships**, 2021
-- **Jingyeda Scholarship of Beijing Jiaotong University**，2022
-- **Helishi Scholarship of Beijing Jiaotong University**，2022
-- **First-Class Scholarship of Beijing Jiaotong University**, 2020-2022
-- **Excellent Communist Party member of Beijing Jiaotong University**, 2022
-- **Three good students of Beijing Jiaotong University**, 2021
+- China Scholarship Council (CSC) scholarships, 2021
+- Jingyeda Scholarship of Beijing Jiaotong University，2022
+- Helishi Scholarship of Beijing Jiaotong University，2021
+- First-Class Scholarship of Beijing Jiaotong University, 2020-2022
+- Excellent Communist Party member of Beijing Jiaotong University, 2022
+- Three good students of Beijing Jiaotong University, 2021
 
 ***
 
