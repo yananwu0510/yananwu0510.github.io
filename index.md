@@ -20,7 +20,7 @@ I am a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University </b>](ht
 
 - 2023.01 - 2024.01, visiting scholar <br>
   Concordia University, Computer Science, Supervised by Prof. [<b>Yang Wang </b>](https://users.encs.concordia.ca/~wayang/){:target="_blank"}.
-- 2019.09 - 2024.03(Expected), Ph.D. <br>
+- 2019.09 - 2024.03 (Expected), Ph.D. <br>
   Beijing Jiaotong University, Computer Science, Supervised by Prof. [<b>Songhe Feng </b>](http://faculty.bjtu.edu.cn/8407/){:target="_blank"}
 - 2016.09 - 2019.03, M.Sc.  <br>
   Harbin University of Science and Technology, Computer Science
@@ -36,7 +36,12 @@ I am a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University </b>](ht
 **News:**
 - Test-Time Domain Adaptation by Learning Domain-Aware Batch Normalization <br>
   **Yanan Wu**, Zhixiang Chi, Yang Wang, Konstantinos Plataniotis, Songhe Feng. <br>
-  2023(Submitted to AAAI2024)
+  2023 (Submitted to AAAI2024)
+
+**2023:**
+- MetaGCD: Learning to Continually Learn in Generalized Category Discovery <br>
+  **Yanan Wu**, Zhixiang Chi, Yang Wang, Songhe Feng. <br>
+  International Conference on Computer Vision, 2023 (ICCV, CCF-A) [[PDF]](https://arxiv.org/abs/2308.11063){:target="_blank"}  [[Code]](https://github.com/yananwu0510/MetaGCD){:target="_blank"}  
 
 ***
 
