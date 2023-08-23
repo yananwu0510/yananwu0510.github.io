@@ -11,7 +11,7 @@ I am currently a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University
 # Research Interests
 
 - **In General:** Computer Vision, Machine Learning, Information Retrieval
-- **Multi-label Learning:** Multi-label Image Classification, 
+- **Multi-label Learning:** Multi-label Image Classification, Multi-label Recognition with Partial Labels, Multi-label Few-shot Learning
 
 ***
 
