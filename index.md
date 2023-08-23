@@ -56,9 +56,13 @@ I am a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University </b>](ht
   IEEE Transactions on Circuits and Systems for Video Technology, 2023 (**TCSVT**, **SCI-An1**) [[PDF]](https://ieeexplore.ieee.org/iel7/76/4358651/10158710.pdf){:target="_blank"}
 
 **2022:**
-- MetaGCD: Learning to Continually Learn in Generalized Category Discovery <br>
-  **Yanan Wu**, Zhixiang Chi, Yang Wang, Songhe Feng. <br>
-  International Conference on Computer Vision, 2023 (**ICCV**, **CCF-A**) [[PDF]](https://arxiv.org/abs/2308.11063){:target="_blank"} 
+- Deep Graph Matching for Partial Label Learning <br>
+  Gengyu Lyu, **Yanan Wu\***, Songhe Feng. <br>
+  International Joint Conference on Artificial Intelligence, 2022 (**IJCAI**, **CCF-A**) [[PDF]](https://www.ijcai.org/proceedings/2022/0459.pdf){:target="_blank"}
+  
+- Beyond Shared Subspace: A View-Specific Fusion for Multi-View Multi-Label Learning <br>
+  Gengyu Lyu, Xiang Deng, **Yanan Wu**, Songhe Feng. <br>
+  International Joint Conference on Artificial Intelligence, 2022 (**IJCAI**, **CCF-A**) [[PDF]](https://www.ijcai.org/proceedings/2022/0459.pdf){:target="_blank"} 
   
 ***
 
