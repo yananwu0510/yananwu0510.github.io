@@ -1,12 +1,10 @@
 title: Yanan Wu (吴亚楠)
-position: Assistant Professor Xxxxx
-affiliation: Brainnetome Center,<br> Institute of Automation,<br> Chinese Academy of Sciences
-email: ziyu.jia@ia.ac.cn 
-email_link: mailto:jia.ziyu@outlook.com
-github_link: https://github.com/ziyujia
+position: Ph.D Student in Computer Science
+affiliation: Beijing Jiaotong University,<br> No.3 Shangyuancun, Haidian District,<br> Beijing China
+email: ynwu0510@bjtu.edu.cn <br> ynw0510@gmail.com 
+email_link: mailto:ynw0510@gmail.com
+github_link: https://github.com/yananwu0510
 weixin: ./assets/img/weixin.png
 avatar: ./assets/img/avatar.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
-description: An Assistant Professor at Institute of Automation, Chinese Academy of Sciences (CASIA)
-remote_theme: yaoyao-liu/strata-academic
