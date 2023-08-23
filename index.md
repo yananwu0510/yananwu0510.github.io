@@ -4,7 +4,7 @@ layout: homepage
 
 # About Me
 
-I am currently a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University </b>](https://bjtu.edu.cn){:target="_blank"} (BJTU), advised by Prof. [<b>Songhe Feng </b>](http://faculty.bjtu.edu.cn/8407/){:target="_blank"}. At the current stage, I am funded by the China Scholarship Council (CSC) to work as a visiting scholar at Concordia University in Canada. I am interested in the general areas of computer vision and machine learning, with research focuses on multi-label image classification, zero-shot learning, novel class discovery and domain adaptation.
+I am currently a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University </b>](https://bjtu.edu.cn){:target="_blank"} (BJTU), supervised by Prof. [<b>Songhe Feng </b>](http://faculty.bjtu.edu.cn/8407/){:target="_blank"}. At present, I am being funded by the China Scholarship Council (CSC) to serve as a visiting scholar at Concordia University in Canada, under the guidance of Prof. [<b>Yang Wang </b>](http://faculty.bjtu.edu.cn/8407/){:target="_blank"}. I am interested in the general areas of computer vision and machine learning, with research focuses on multi-label image classification, zero-shot learning, novel class discovery and domain adaptation.
 
 ***
 
