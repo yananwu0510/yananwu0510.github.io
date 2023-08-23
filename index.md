@@ -29,7 +29,7 @@ I am a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University </b>](ht
   
 ***
 
-# Publications <font size=2>[[Google Scholar]](https://scholar.google.com.hk/citations?user=h1SE2-0AAAAJ&hl=zh-CN){:target="_blank"}</font>
+# Publications
 
 \* denotes equal contribution
 
