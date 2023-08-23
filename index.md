@@ -92,16 +92,12 @@ I am a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University </b>](ht
 
 # Honors and Awards
 
-- **Swarma Club and Kaifeng Fellowship**, 2021
-- **China's Computer Software Design Competition, The first prize**, 2021. *Role: team mentor.*
-- **IJCAI Student Grant**, 2021
-- **ACM MM Student Travel Grants**, 2021
-- **China Scholarship Council (CSC) scholarships**, 2020
-- **NeurIPS causality competition, Top 1%**, 2019. *Role: team mentor.*
-- **International Collegiate Competition for Brain-inspired Computing, Top 10%**, 2019. *Role: team mentor.*
-- **The 16th China Graduate Mathematical Modeling Competition, The third prize**, 2019. *Role: team mentor.*
-- **First-Class Scholarship of Beijing Jiaotong University**, 2016-2020
-- **Microsoft Imagine Cup Competition, The third prize**, 2015. *Role: team mentor.*
+- **China Scholarship Council (CSC) scholarships**, 2021
+- **Jingyeda Scholarship of Beijing Jiaotong University**，2022
+- **Helishi Scholarship of Beijing Jiaotong University**，2022
+- **First-Class Scholarship of Beijing Jiaotong University**, 2020-2022
+- **Excellent Communist Party member of Beijing Jiaotong University**, 2022
+- **Three good students of Beijing Jiaotong University**, 2021
 
 ***
 
