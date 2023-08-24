@@ -56,7 +56,7 @@ I am a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University</b>](http
   International Joint Conference on Artificial Intelligence, 2022 (**IJCAI**, **CCF-A**) [<b>[PDF]</b>](https://www.ijcai.org/proceedings/2022/0459.pdf){:target="_blank"}  
 - Beyond Shared Subspace: A View-Specific Fusion for Multi-View Multi-Label Learning <br>
   Gengyu Lyu, Xiang Deng, **Yanan Wu**, Songhe Feng. <br>
-  AAAI Conference on Artificial Intelligence, 2022 (**AAAI**, **CCF-A**) [<b>[PDF]</b>]https://ojs.aaai.org/index.php/AAAI/article/download/20731/20490){:target="_blank"}
+  AAAI Conference on Artificial Intelligence, 2022 (**AAAI**, **CCF-A**) [<b>[PDF]</b>](https://ojs.aaai.org/index.php/AAAI/article/download/20731/20490){:target="_blank"}
 
 **2021:**
 - GM-MLIC: Graph Matching based Multi-Label Image Classifification <br>
