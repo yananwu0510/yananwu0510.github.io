@@ -4,7 +4,7 @@ layout: homepage
 
 # About Me
 
-I am a fifth-year CS Ph.D. student at [Beijing Jiaotong University](https://bjtu.edu.cn){:target="_blank"} (BJTU), supervised by Prof. [<b>Songhe Feng </b>](http://faculty.bjtu.edu.cn/8407/){:target="_blank"}. At present, I am being funded by the China Scholarship Council (CSC) to serve as a visiting scholar at [<b>Concordia University </b>](https://www.concordia.ca){:target="_blank"} in Canada, under the guidance of Prof. [<b>Yang Wang </b>](https://users.encs.concordia.ca/~wayang/){:target="_blank"}. I am interested in the general areas of computer vision and machine learning, with research focuses on multi-label image classification, zero-shot learning, novel class discovery and domain adaptation. I have also developed AI models beyond the "brute-force" supervised approach. The ultimate goal is to allow the AI models to be personalized, flexible, and easily adaptable to different scenarios with minimal efforts.
+I am a fifth-year CS Ph.D. student at [<b>Beijing Jiaotong University</b>](https://bjtu.edu.cn){:target="_blank"} (BJTU), supervised by Prof. [<b>Songhe Feng </b>](http://faculty.bjtu.edu.cn/8407/){:target="_blank"}. At present, I am being funded by the China Scholarship Council (CSC) to serve as a visiting scholar at [<b>Concordia University </b>](https://www.concordia.ca){:target="_blank"} in Canada, under the guidance of Prof. [<b>Yang Wang </b>](https://users.encs.concordia.ca/~wayang/){:target="_blank"}. I am interested in the general areas of computer vision and machine learning, with research focuses on multi-label image classification, zero-shot learning, novel class discovery and domain adaptation. I have also developed AI models beyond the "brute-force" supervised approach. The ultimate goal is to allow the AI models to be personalized, flexible, and easily adaptable to different scenarios with minimal efforts.
 
 ***
 
@@ -41,32 +41,32 @@ I am a fifth-year CS Ph.D. student at [Beijing Jiaotong University](https://bjt
 **2023:**
 - MetaGCD: Learning to Continually Learn in Generalized Category Discovery <br>
   **Yanan Wu**, Zhixiang Chi, Yang Wang, Songhe Feng. <br>
-  International Conference on Computer Vision, 2023 (**ICCV**, **CCF-A**) [[PDF]](https://arxiv.org/abs/2308.11063){:target="_blank"}  [[Code]](https://github.com/yananwu0510/MetaGCD){:target="_blank"}  
+  International Conference on Computer Vision, 2023 (**ICCV**, **CCF-A**) [<b>[PDF]</b>](https://arxiv.org/abs/2308.11063){:target="_blank"}  [<b>[Code]</b>](https://github.com/yananwu0510/MetaGCD){:target="_blank"}  
 - MetaZSCIL: A Meta-Learning Approach for Generalized Zero-Shot Class Incremental Learning <br>
   **Yanan Wu**, Tengfei Liang, Songhe Feng, Yi Jin, Gengyu Lyu, Yang Wang. <br>
-  AAAI Conference on Artificial Intelligence, 2023 (**AAAI**, **CCF-A**) [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/26238/26010){:target="_blank"}
+  AAAI Conference on Artificial Intelligence, 2023 (**AAAI**, **CCF-A**) [<b>[PDF]</b>](https://ojs.aaai.org/index.php/AAAI/article/download/26238/26010){:target="_blank"}
 - Semantic-Aware Graph Matching Mechanism for Multi-Label Image Recognition <br>
   **Yanan Wu**, Songhe Feng, Yang Wang. <br>
-  IEEE Transactions on Circuits and Systems for Video Technology, 2023 (**TCSVT**, **SCI-An1**) [[PDF]](https://ieeexplore.ieee.org/iel7/76/4358651/10106016.pdf){:target="_blank"}
+  IEEE Transactions on Circuits and Systems for Video Technology, 2023 (**TCSVT**, **SCI-An1**) [<b>[PDF]</b>](https://ieeexplore.ieee.org/iel7/76/4358651/10106016.pdf){:target="_blank"}
 - Transformer Driven Matching Selection Mechanism for Multi-Label Image Classification <br>
   **Yanan Wu**, Songhe Feng. <br>
-  IEEE Transactions on Circuits and Systems for Video Technology, 2023 (**TCSVT**, **SCI-An1**) [[PDF]](https://ieeexplore.ieee.org/iel7/76/4358651/10158710.pdf){:target="_blank"}
+  IEEE Transactions on Circuits and Systems for Video Technology, 2023 (**TCSVT**, **SCI-An1**) [<b>[PDF]</b>](https://ieeexplore.ieee.org/iel7/76/4358651/10158710.pdf){:target="_blank"}
 
 **2022:**
 - Deep Graph Matching for Partial Label Learning <br>
   Gengyu Lyu, **Yanan Wu\***, Songhe Feng. <br>
-  International Joint Conference on Artificial Intelligence, 2022 (**IJCAI**, **CCF-A**) [[PDF]](https://www.ijcai.org/proceedings/2022/0459.pdf){:target="_blank"}  
+  International Joint Conference on Artificial Intelligence, 2022 (**IJCAI**, **CCF-A**) [<b>[PDF]</b>](https://www.ijcai.org/proceedings/2022/0459.pdf){:target="_blank"}  
 - Beyond Shared Subspace: A View-Specific Fusion for Multi-View Multi-Label Learning <br>
   Gengyu Lyu, Xiang Deng, **Yanan Wu**, Songhe Feng. <br>
-  AAAI Conference on Artificial Intelligence, 2022 (**AAAI**, **CCF-A**) [[PDF]]https://ojs.aaai.org/index.php/AAAI/article/download/20731/20490){:target="_blank"}
+  AAAI Conference on Artificial Intelligence, 2022 (**AAAI**, **CCF-A**) [<b>[PDF]</b>]https://ojs.aaai.org/index.php/AAAI/article/download/20731/20490){:target="_blank"}
 
 **2021:**
 - GM-MLIC: Graph Matching based Multi-Label Image Classifification <br>
   **Yanan Wu\***, He Liu, Songhe Feng, Gengyu Lyu, Zizhang Wu. <br>
-  International Joint Conference on Artificial Intelligence, 2021 (**IJCAI**, **CCF-A**) [[PDF]](https://www.ijcai.org/proceedings/2021/0163.pdf){:target="_blank"} 
+  International Joint Conference on Artificial Intelligence, 2021 (**IJCAI**, **CCF-A**) [<b>[PDF]</b>](https://www.ijcai.org/proceedings/2021/0163.pdf){:target="_blank"} 
 - L4Net: An Anchor-Free Generic Object Detector with Attention Mechanism for Autonomous Driving <br>
   **Yanan Wu\***, Songhe Feng, Xiankai Huang, Zizhang Wu. <br>
-  IET Computer Vision, 2021 [[PDF]](https://www.ijcai.org/proceedings/2021/0163.pdf){:target="_blank"}
+  IET Computer Vision, 2021 [<b>[PDF]</b>](https://www.ijcai.org/proceedings/2021/0163.pdf){:target="_blank"}
 
   
 ***
