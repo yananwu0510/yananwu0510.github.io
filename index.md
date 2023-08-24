@@ -62,6 +62,14 @@ I am a CS Ph.D. student at [<b>Beijing Jiaotong University</b>](https://bjtu.ed
   **Yanan Wu\***, Songhe Feng, Xiankai Huang, Zizhang Wu. <br>
   IET Computer Vision, 2021 [<b>[PDF]</b>](https://www.ijcai.org/proceedings/2021/0163.pdf){:target="_blank"}
 
+***
+
+# Research Projects
+- Research on real-time object detection algorithm, **Fundamental Research Funds for the Central Universities**, PI, 2020-2022
+- Research on key technologies of multi-view learning algorithm for image semantic understanding, **Key Supported Projects of Fundamental Research Funds**，2022-2025
+- Embedded Real-time Operating System for Industrial Host Domain，**National Special Project**，2021-2023
+- Research on Clustering Algorithms for Multisource Heterogeneous Data Fusion，**Fundamental Research Funds for the Central Universities**，2021-2023
+- Research on Weakly Supervised Multi-Label Learning Algorithms，**Fundamental Research Funds for the Central Universities**, PI, 2020-2022
   
 ***
 
