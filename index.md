@@ -32,11 +32,6 @@ I am a CS Ph.D. student at [<b>Beijing Jiaotong University</b>](https://bjtu.ed
 
 \* denotes equal contribution
 
-**News:**
-- Test-Time Domain Adaptation by Learning Domain-Aware Batch Normalization <br>
-  **Yanan Wu**, Zhixiang Chi, Yang Wang, Konstantinos Plataniotis, Songhe Feng. <br>
-  2023 (Submitted to AAAI2024)
-
 **2023:**
 - MetaGCD: Learning to Continually Learn in Generalized Category Discovery <br>
   **Yanan Wu**, Zhixiang Chi, Yang Wang, Songhe Feng. <br>
